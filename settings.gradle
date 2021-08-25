@@ -1,2 +1,3 @@
 rootProject.name = "DessertCatalog"
-include ':app'
+include ':dessert-catalog-start'
+include ':dessert-catalog-end'

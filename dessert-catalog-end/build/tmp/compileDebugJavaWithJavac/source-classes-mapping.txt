@@ -1,0 +1,2 @@
+com/example/dessertcatalog/BuildConfig.java
+ com.example.dessertcatalog.BuildConfig

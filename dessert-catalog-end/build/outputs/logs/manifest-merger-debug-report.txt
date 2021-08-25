@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/4a830e0d81615bec43ea7f1e4cf970d7/core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.4.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0cb3a1042be281d856f437e1e80d0015/material-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e24af91e9997f2c59372950fa0224885/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7fae097a849239f1698042da21714c08/appcompat-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/8f9ff20d54fb196c355ed920271fb765/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e7cec72b58fc9e06a0f06a631e2c82a5/fragment-1.3.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.3] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/d9f37c158822cd95cfe0762eec1461e8/activity-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c24d02fa4a75b25ec05ea69b63150d13/appcompat-resources-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/567031925d44aeed08f344ebd4a5c0f2/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/6b7d07eb82b1c79403f8a4311b90810c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/df8772228c322571b0bb5051ccca77db/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c23c6a3f5c618304d79be3bd47653570/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e47e3dc6969b3db7bfa9cc12b69ed548/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e8acb4958c5a6809ef65ab7589569cc2/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/b5f12fa8ea267cf63cc04407c9204ae0/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/2f8b9e68c30ed74217539d5bb0c53996/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/32285490e0598782db71698d8ea92af1/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/001d263eefe909145ca7ef37ef27341b/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a66e01c163eb41f694d83576eebebff7/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/ebfe245c0ce623db3d96bd9906ccb365/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/217672a73b72c4d1e0f41b5529bc4899/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/28c1bac131c4d22df39fb62accccb96a/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/d76995e80740ef03bae48d5966e7e5b8/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7eee5dc3d0473a09cf81511239ef9c15/lifecycle-runtime-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c1420aced9147f6662895603e2a9fc3a/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/14a193c7c8f4a97226224c10db788614/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/31016dce4efa12ed1024ef7d91a8f8df/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/5cb348a7164d64581dc56aa60090cbeb/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a18c319263bbb4426a0cb482d861ea3a/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0d5ca4167650d45f447ce037b0595897/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/baa483a02f6006f061a0126c60f3a2ca/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/5e640371b7b634ffcbdd98d5b558e586/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7ebe060ab43b65ebcc0314075e29bca5/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/660a985363893abe3d09af03eefb88e2/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a1b0de141cb6cd8238b8dc4c4af41a9a/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/44aefcab0b8a7c8038c445305375e9ca/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.4.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0cb3a1042be281d856f437e1e80d0015/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.4.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0cb3a1042be281d856f437e1e80d0015/material-1.4.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e24af91e9997f2c59372950fa0224885/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e24af91e9997f2c59372950fa0224885/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/ebfe245c0ce623db3d96bd9906ccb365/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/ebfe245c0ce623db3d96bd9906ccb365/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/31016dce4efa12ed1024ef7d91a8f8df/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/31016dce4efa12ed1024ef7d91a8f8df/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/ebfe245c0ce623db3d96bd9906ccb365/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:11:9-52
+activity#com.example.dessertcatalog.MainActivity
+ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/4a830e0d81615bec43ea7f1e4cf970d7/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/4a830e0d81615bec43ea7f1e4cf970d7/core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.4.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0cb3a1042be281d856f437e1e80d0015/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.4.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0cb3a1042be281d856f437e1e80d0015/material-1.4.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e24af91e9997f2c59372950fa0224885/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e24af91e9997f2c59372950fa0224885/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7fae097a849239f1698042da21714c08/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7fae097a849239f1698042da21714c08/appcompat-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/8f9ff20d54fb196c355ed920271fb765/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/8f9ff20d54fb196c355ed920271fb765/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e7cec72b58fc9e06a0f06a631e2c82a5/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.4] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e7cec72b58fc9e06a0f06a631e2c82a5/fragment-1.3.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/d9f37c158822cd95cfe0762eec1461e8/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.3] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/d9f37c158822cd95cfe0762eec1461e8/activity-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c24d02fa4a75b25ec05ea69b63150d13/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c24d02fa4a75b25ec05ea69b63150d13/appcompat-resources-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/567031925d44aeed08f344ebd4a5c0f2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/567031925d44aeed08f344ebd4a5c0f2/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/6b7d07eb82b1c79403f8a4311b90810c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/6b7d07eb82b1c79403f8a4311b90810c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/df8772228c322571b0bb5051ccca77db/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/df8772228c322571b0bb5051ccca77db/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c23c6a3f5c618304d79be3bd47653570/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c23c6a3f5c618304d79be3bd47653570/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e47e3dc6969b3db7bfa9cc12b69ed548/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e47e3dc6969b3db7bfa9cc12b69ed548/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e8acb4958c5a6809ef65ab7589569cc2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/e8acb4958c5a6809ef65ab7589569cc2/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/b5f12fa8ea267cf63cc04407c9204ae0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/b5f12fa8ea267cf63cc04407c9204ae0/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/2f8b9e68c30ed74217539d5bb0c53996/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/2f8b9e68c30ed74217539d5bb0c53996/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/32285490e0598782db71698d8ea92af1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/32285490e0598782db71698d8ea92af1/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/001d263eefe909145ca7ef37ef27341b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/001d263eefe909145ca7ef37ef27341b/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a66e01c163eb41f694d83576eebebff7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a66e01c163eb41f694d83576eebebff7/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/ebfe245c0ce623db3d96bd9906ccb365/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/ebfe245c0ce623db3d96bd9906ccb365/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/217672a73b72c4d1e0f41b5529bc4899/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/217672a73b72c4d1e0f41b5529bc4899/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/28c1bac131c4d22df39fb62accccb96a/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/28c1bac131c4d22df39fb62accccb96a/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/d76995e80740ef03bae48d5966e7e5b8/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/d76995e80740ef03bae48d5966e7e5b8/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7eee5dc3d0473a09cf81511239ef9c15/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7eee5dc3d0473a09cf81511239ef9c15/lifecycle-runtime-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c1420aced9147f6662895603e2a9fc3a/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/c1420aced9147f6662895603e2a9fc3a/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/14a193c7c8f4a97226224c10db788614/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/14a193c7c8f4a97226224c10db788614/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/31016dce4efa12ed1024ef7d91a8f8df/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/31016dce4efa12ed1024ef7d91a8f8df/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/5cb348a7164d64581dc56aa60090cbeb/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/5cb348a7164d64581dc56aa60090cbeb/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a18c319263bbb4426a0cb482d861ea3a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a18c319263bbb4426a0cb482d861ea3a/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0d5ca4167650d45f447ce037b0595897/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/0d5ca4167650d45f447ce037b0595897/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/baa483a02f6006f061a0126c60f3a2ca/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/baa483a02f6006f061a0126c60f3a2ca/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/5e640371b7b634ffcbdd98d5b558e586/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/5e640371b7b634ffcbdd98d5b558e586/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7ebe060ab43b65ebcc0314075e29bca5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/7ebe060ab43b65ebcc0314075e29bca5/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/660a985363893abe3d09af03eefb88e2/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/660a985363893abe3d09af03eefb88e2/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a1b0de141cb6cd8238b8dc4c4af41a9a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/a1b0de141cb6cd8238b8dc4c4af41a9a/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/44aefcab0b8a7c8038c445305375e9ca/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/elizabethcheng/.gradle/caches/transforms-2/files-2.1/44aefcab0b8a7c8038c445305375e9ca/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+		ADDED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
+		INJECTED from /Users/elizabethcheng/code/DessertCatalog/dessert-catalog-end/src/main/AndroidManifest.xml
