@@ -4,7 +4,7 @@ import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 
-class RecyclerAdapter(private val desserts: ArrayList<DessertModel>): RecyclerView.Adapter<DessertViewHolder>() {
+class DessertsRecyclerAdapter(private val desserts: ArrayList<DessertModel>): RecyclerView.Adapter<DessertViewHolder>() {
 
     override fun getItemCount(): Int {
         return desserts.size

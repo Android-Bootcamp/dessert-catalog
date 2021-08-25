@@ -2,8 +2,8 @@ package com.example.dessertcatalog
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.view.View
 import androidx.recyclerview.widget.GridLayoutManager
-import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import java.util.ArrayList
 
@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
     private val desserts: ArrayList<DessertModel> = ArrayList()
     private lateinit var recyclerView: RecyclerView
-    private lateinit var adapter: RecyclerAdapter
+    private lateinit var adapter: DessertsRecyclerAdapter
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -20,10 +20,21 @@ class MainActivity : AppCompatActivity() {
         recyclerView = findViewById(R.id.recycler_view)
         //recyclerView.layoutManager = LinearLayoutManager(this, LinearLayoutManager.VERTICAL, false)
         recyclerView.layoutManager = GridLayoutManager(this, 2)
-        adapter = RecyclerAdapter(desserts)
+        //recyclerView.addItemDecoration(DividerItemDecoration(this, DividerItemDecoration.VERTICAL))
+        adapter = DessertsRecyclerAdapter(desserts)
         recyclerView.adapter = adapter
 
         initData()
+
+        findViewById<View>(R.id.clear_button).setOnClickListener {
+            desserts.clear()
+            adapter.notifyDataSetChanged()
+        }
+
+        findViewById<View>(R.id.add_button).setOnClickListener {
+            initData()
+            adapter.notifyDataSetChanged()
+        }
     }
 
     private fun initData() {
